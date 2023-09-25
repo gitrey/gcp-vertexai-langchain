@@ -27,4 +27,4 @@ if __name__ == "__main__":
 
     input = "This is a helpful assistant who can translate English to Italian"
     response = chat_llm(input)
-    print(response.content)
+    print(response)
