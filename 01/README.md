@@ -50,7 +50,7 @@ This lab assumes familiarity with the Cloud Console and Cloud Shell environments
 ### Environment Setup
 Activate Cloud Shell by clicking on the icon to the right of the search bar.
 
-<img src="./img/cloudshell.png" width="800"/>
+<img src="./img/cloudshell.png" width="600"/>
 
 Open Cloud Shell and run commands below. This will launch Cloud Shell Editor:
 ```shell
@@ -61,7 +61,7 @@ cloudshell edit README.md
 
 Right click on 01 folder and select Open in Terminal.
 
-<img src="./img/01-open.png" width="800"/>
+<img src="./img/01-open.png" width="600"/>
 
 From the top menu select Terminal > New Terminal:
 
@@ -92,7 +92,7 @@ Sample output
 ```
 Open Cloud Code Settings and search for “Default Interpreter Path”.
 
-<img src="./img/open-settings.png" width="600"/>
+<img src="./img/open-settings.png" width="400"/>
 
 Set the value using output from the previous command and close the Preferences tab.
 
