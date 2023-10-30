@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+google-cloud-aiplatform = "*"
+google-generativeai = "*"
+numpy = "*"
+pgvector = "*"
+streamlit = "*"
+streamlit-chat = "*"
+html2text = "*"
+tiktoken = "*"
+unstructured = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.10"
