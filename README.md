@@ -6,9 +6,10 @@ It will  give you the experience of writing LLM powered applications from scratc
 **Samples**
 
 
-1. [Developer Quickstart for Vertex AI PaLM API and LangChain](01/)
-2. [Vertex AI Embeddings API with CloudSQL pgvector extension](02/)
-3. [Vertex AI Matching Engine](03/)
+1. [Developer Quickstart with Vertex AI PaLM API and LangChain](01/)
+2. [Vertex AI Embeddings API with Cloud SQL vector extension](02/)
+3. [Code Assistant example](03/)
+4. [Vertex AI Vector Search](04/)
 
 **Repo Status**
 
